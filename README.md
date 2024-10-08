@@ -22,3 +22,6 @@ Thanks for your attention.
 Этот текст написан в браузере. Ветка master
 
 Этот текст написан в IDEA. Ветка readme-improver
+
+
+Этот текст из IDEA. readme-improver
