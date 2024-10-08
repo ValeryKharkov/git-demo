@@ -25,3 +25,5 @@ Thanks for your attention.
 
 
 Этот текст из IDEA. readme-improver
+
+Надпись для пул из мастера
